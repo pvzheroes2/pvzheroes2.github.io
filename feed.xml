@@ -5,9 +5,9 @@
   <subtitle>快人一步</subtitle>
   <link href="/feed.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://pvzheroes2.github.io/"/>
   <updated>2020-02-26T00:14:14.755Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://pvzheroes2.github.io/</id>
   
   <author>
     <name>神秘人</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/26/hello-world/"/>
-    <id>http://yoursite.com/2020/02/26/hello-world/</id>
+    <link href="https://pvzheroes2.github.io/2020/02/26/hello-world/"/>
+    <id>https://pvzheroes2.github.io/2020/02/26/hello-world/</id>
     <published>2020-02-25T23:46:35.938Z</published>
     <updated>2020-02-26T00:14:14.755Z</updated>
     
