@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>紫苑专用在线版</title>
+  
+  <subtitle>快人一步</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-26T00:14:14.755Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>神秘人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/02/26/hello-world/"/>
+    <id>http://yoursite.com/2020/02/26/hello-world/</id>
+    <published>2020-02-25T23:46:35.938Z</published>
+    <updated>2020-02-26T00:14:14.755Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎各位依神紫苑的粉丝来到这里！<br>如需获得更多信息请点<strong>上方导航栏</strong>哦</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎各位依神紫苑的粉丝来到这里！&lt;br&gt;如需获得更多信息请点&lt;strong&gt;上方导航栏&lt;/strong&gt;哦&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
