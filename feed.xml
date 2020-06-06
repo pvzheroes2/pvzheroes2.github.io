@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://pvzheroes2.github.io/"/>
-  <updated>2020-02-26T15:39:49.657Z</updated>
+  <updated>2020-06-06T02:42:49.316Z</updated>
   <id>https://pvzheroes2.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>群内周选管理使用说明</title>
+    <link href="https://pvzheroes2.github.io/2020/06/06/weekly-vote/"/>
+    <id>https://pvzheroes2.github.io/2020/06/06/weekly-vote/</id>
+    <published>2020-06-06T02:41:00.000Z</published>
+    <updated>2020-06-06T02:42:49.316Z</updated>
+    
+    <content type="html"><![CDATA[<p>本群管理周选采用<strong>报名制</strong>，需群员自己报名。群内报名机器人为<strong>莉谣</strong>，群内签到功能已被禁用，所以请私聊进行操作，谢谢配合。详细操作步骤如下。</p><h3 id="一、绑定"><a href="#一、绑定" class="headerlink" title="一、绑定"></a>一、绑定</h3><ol><li><p>在“群成员”内搜索莉谣两个字，找到机器人；<br><img src="https://s1.ax1x.com/2020/06/06/tydEg1.png" alt="莉谣"></p></li><li><p>进入私聊窗口，输入绑708957139，机器人提示绑定成功即可进行操作了。<br><img src="https://s1.ax1x.com/2020/06/06/tydHr6.png" alt="绑定"></p></li></ol><h3 id="二、签到及查询"><a href="#二、签到及查询" class="headerlink" title="二、签到及查询"></a>二、签到及查询</h3><ol><li><p>在私聊窗口内发送“<strong>签到</strong>”，即可进行签到。每天只可签一次，连续签到的话则有额外钻石奖励。<br><img src="https://s1.ax1x.com/2020/06/06/tywYW9.png" alt="签到"></p></li><li><p>如果忘记了自己的钻石数，可以发送“<strong>查询</strong>”来得知自己的钻石数。（由于之前未改私聊所以这里和原雨林插件显示内容一样，请谅解）<br><img src="https://s1.ax1x.com/2020/06/06/tywgSA.png" alt="查询"></p></li></ol><h3 id="三、商城"><a href="#三、商城" class="headerlink" title="三、商城"></a>三、商城</h3><ol><li><p>发送“<strong>积分商城</strong>”，便可以查看商城内容。<br><img src="https://s1.ax1x.com/2020/06/06/ty0Pp9.png" alt="商城"></p></li><li><p>输入“<strong>兑换</strong>+<strong>商品编号</strong>或<strong>兑换</strong>+<strong>商品全名</strong>”（不包含加号），即可兑换你想要的物品。兑换“参加管理选举”物品即为报名本周选举。<br><img src="https://s1.ax1x.com/2020/06/06/ty0bND.png" alt="兑换"></p></li></ol><h5 id="教程结束，祝您身体健康，全家幸福！"><a href="#教程结束，祝您身体健康，全家幸福！" class="headerlink" title="教程结束，祝您身体健康，全家幸福！"></a>教程结束，祝您身体健康，全家幸福！</h5>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本群管理周选采用&lt;strong&gt;报名制&lt;/strong&gt;，需群员自己报名。群内报名机器人为&lt;strong&gt;莉谣&lt;/strong&gt;，群内签到功能已被禁用，所以请私聊进行操作，谢谢配合。详细操作步骤如下。&lt;/p&gt;
+&lt;h3 id=&quot;一、绑定&quot;&gt;&lt;a href=&quot;#一、绑定&quot; cl
+      
+    
+    </summary>
+    
+    
+    
+      <category term="教程" scheme="https://pvzheroes2.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>增加pvz3页面啦</title>
