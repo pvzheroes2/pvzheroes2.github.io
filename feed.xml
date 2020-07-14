@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://pvzheroes2.github.io/"/>
-  <updated>2020-07-12T06:31:10.585Z</updated>
+  <updated>2020-07-14T05:52:01.294Z</updated>
   <id>https://pvzheroes2.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>增加新下载方式</title>
+    <link href="https://pvzheroes2.github.io/2020/07/14/new-download-way/"/>
+    <id>https://pvzheroes2.github.io/2020/07/14/new-download-way/</id>
+    <published>2020-07-14T05:43:56.000Z</published>
+    <updated>2020-07-14T05:52:01.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>新下载方式已追加。参见上栏“下载”页面。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;新下载方式已追加。参见上栏“下载”页面。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="通知" scheme="https://pvzheroes2.github.io/tags/%E9%80%9A%E7%9F%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>TJAPlayer3 下载</title>
@@ -93,36 +118,11 @@
   </entry>
   
   <entry>
-    <title>增加pvz3页面啦</title>
-    <link href="https://pvzheroes2.github.io/2020/02/26/addpvz3/"/>
-    <id>https://pvzheroes2.github.io/2020/02/26/addpvz3/</id>
-    <published>2020-02-26T15:35:44.000Z</published>
-    <updated>2020-02-26T15:39:49.657Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="感谢各位的支持！"><a href="#感谢各位的支持！" class="headerlink" title="感谢各位的支持！"></a>感谢各位的支持！</h2><p>紫苑增加了新业务-<strong>pvz3</strong>。</p><p>在上方导航栏就能看见喽！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;感谢各位的支持！&quot;&gt;&lt;a href=&quot;#感谢各位的支持！&quot; class=&quot;headerlink&quot; title=&quot;感谢各位的支持！&quot;&gt;&lt;/a&gt;感谢各位的支持！&lt;/h2&gt;&lt;p&gt;紫苑增加了新业务-&lt;strong&gt;pvz3&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;在上方导航栏就
-      
-    
-    </summary>
-    
-    
-    
-      <category term="new" scheme="https://pvzheroes2.github.io/tags/new/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://pvzheroes2.github.io/2020/02/26/hello-world/"/>
     <id>https://pvzheroes2.github.io/2020/02/26/hello-world/</id>
     <published>2020-02-25T23:46:35.938Z</published>
-    <updated>2020-02-26T00:14:14.755Z</updated>
+    <updated>2020-07-14T04:44:46.440Z</updated>
     
     <content type="html"><![CDATA[<p>欢迎各位依神紫苑的粉丝来到这里！<br>如需获得更多信息请点<strong>上方导航栏</strong>哦</p>]]></content>
     
