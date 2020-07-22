@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://pvzheroes2.github.io/"/>
-  <updated>2020-07-14T05:52:01.294Z</updated>
+  <updated>2020-07-22T16:11:23.975Z</updated>
   <id>https://pvzheroes2.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>添加订阅</title>
+    <link href="https://pvzheroes2.github.io/2020/07/23/subscribe-added/"/>
+    <id>https://pvzheroes2.github.io/2020/07/23/subscribe-added/</id>
+    <published>2020-07-22T16:08:08.000Z</published>
+    <updated>2020-07-22T16:11:23.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了方便各位使用上网工具，本站制作了<strong>ssr</strong>和<strong>v2ray</strong>的订阅链接（节点均来自互联网，侵删）。</p><p>链接如下：</p><h5 id="V2ray-https-oneserver-1255317343-cos-ap-shanghai-myqcloud-com-v2raysub"><a href="#V2ray-https-oneserver-1255317343-cos-ap-shanghai-myqcloud-com-v2raysub" class="headerlink" title="V2ray https://oneserver-1255317343.cos.ap-shanghai.myqcloud.com/v2raysub"></a>V2ray <code>https://oneserver-1255317343.cos.ap-shanghai.myqcloud.com/v2raysub</code></h5><h5 id="SSR-https-oneserver-1255317343-cos-ap-shanghai-myqcloud-com-sub"><a href="#SSR-https-oneserver-1255317343-cos-ap-shanghai-myqcloud-com-sub" class="headerlink" title="SSR https://oneserver-1255317343.cos.ap-shanghai.myqcloud.com/sub"></a>SSR <code>https://oneserver-1255317343.cos.ap-shanghai.myqcloud.com/sub</code></h5><p>复制粘贴在客户端添加订阅即可。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;为了方便各位使用上网工具，本站制作了&lt;strong&gt;ssr&lt;/strong&gt;和&lt;strong&gt;v2ray&lt;/strong&gt;的订阅链接（节点均来自互联网，侵删）。&lt;/p&gt;
+&lt;p&gt;链接如下：&lt;/p&gt;
+&lt;h5 id=&quot;V2ray-https-oneserver-125531734
+      
+    
+    </summary>
+    
+    
+    
+      <category term="紫苑" scheme="https://pvzheroes2.github.io/tags/%E7%B4%AB%E8%8B%91/"/>
+    
+  </entry>
   
   <entry>
     <title>增加新下载方式</title>
