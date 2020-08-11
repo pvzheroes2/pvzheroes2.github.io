@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://pvzheroes2.github.io/"/>
-  <updated>2020-07-22T16:11:23.975Z</updated>
+  <updated>2020-08-11T08:44:12.527Z</updated>
   <id>https://pvzheroes2.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PvZH懒人包</title>
+    <link href="https://pvzheroes2.github.io/2020/08/11/pvzh-pc/"/>
+    <id>https://pvzheroes2.github.io/2020/08/11/pvzh-pc/</id>
+    <published>2020-08-11T08:34:00.000Z</published>
+    <updated>2020-08-11T08:44:12.527Z</updated>
+    
+    <content type="html"><![CDATA[<p>所谓PvZH懒人包，就是不用进行额外配置，直接导入就可以玩pvzh的东西。</p><h3 id="功能："><a href="#功能：" class="headerlink" title="功能："></a>功能：</h3><ol><li><p>自带代理客户端，已设置好订阅可以自动更新配置；</p></li><li><p>自带多开应用，可无限多开不闪退；</p></li><li><p>PvZH数据包已处理好，无需下载直接进入就可玩。</p></li></ol><h3 id="链接："><a href="#链接：" class="headerlink" title="链接："></a>链接：</h3><p>百度网盘：<a href="http://tinyurl.com/y2jpzkuu" target="_blank" rel="noopener">http://tinyurl.com/y2jpzkuu</a> 提取码: bt48<br>优云：<a href="http://tinyurl.com/y4g6nplh" target="_blank" rel="noopener">http://tinyurl.com/y4g6nplh</a></p><p>npbk的是夜神的文件，ldbk是雷电4.0的，请区分使用。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;所谓PvZH懒人包，就是不用进行额外配置，直接导入就可以玩pvzh的东西。&lt;/p&gt;
+&lt;h3 id=&quot;功能：&quot;&gt;&lt;a href=&quot;#功能：&quot; class=&quot;headerlink&quot; title=&quot;功能：&quot;&gt;&lt;/a&gt;功能：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;自带代理客户端，已设置好
+      
+    
+    </summary>
+    
+    
+    
+      <category term="紫苑" scheme="https://pvzheroes2.github.io/tags/%E7%B4%AB%E8%8B%91/"/>
+    
+  </entry>
   
   <entry>
     <title>添加订阅</title>
