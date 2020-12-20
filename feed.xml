@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://shionzy.icu:2/"/>
-  <updated>2020-08-14T22:45:09.960Z</updated>
+  <updated>2020-12-20T05:53:19.377Z</updated>
   <id>https://shionzy.icu:2/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新地址</title>
+    <link href="https://shionzy.icu:2/2020/12/20/new-host/"/>
+    <id>https://shionzy.icu:2/2020/12/20/new-host/</id>
+    <published>2020-12-20T05:50:22.000Z</published>
+    <updated>2020-12-20T05:53:19.377Z</updated>
+    
+    <content type="html"><![CDATA[<p>紫苑专用2号机地址：<a href="https://shionzy.icu:2/">https://shionzy.icu:2/</a></p><p>紫苑下载：<a href="https://shionzy.icu:3/">https://shionzy.icu:3/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;紫苑专用2号机地址：&lt;a href=&quot;https://shionzy.icu:2/&quot;&gt;https://shionzy.icu:2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;紫苑下载：&lt;a href=&quot;https://shionzy.icu:3/&quot;&gt;https://shionzy.icu:3/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="更新" scheme="https://shionzy.icu:2/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>增加曲奇云盘下载方式</title>
